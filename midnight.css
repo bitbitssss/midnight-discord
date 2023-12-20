@@ -41,7 +41,6 @@
 	--spacing: 12px;
 
 	/* animations */
-	--hover-push: 0.2s ease; /* channels/members when hovered */
 
 	/* corner roundness (border-radius) */
 	--roundness-xl: 12px; /* roundness of big panel outer corners */
