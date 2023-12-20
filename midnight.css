@@ -44,8 +44,8 @@
 	--hover-push: 0.2s ease; /* channels/members when hovered */
 
 	/* corner roundness (border-radius) */
-	--roundness-xl: 22px; /* roundness of big panel outer corners */
-	--roundness-l: 20px; /* popout panels */
+	--roundness-xl: 12px; /* roundness of big panel outer corners */
+	--roundness-l: 12px; /* popout panels */
 	--roundness-m: 16px; /* smaller panels, images, embeds */
 	--roundness-s: 12px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
